@@ -1,3 +1,3 @@
-# Charge Test Package A
+# Charge Test Package B
 
-Test Package A for the Charge framework.
+Test Package B for the Charge framework.
