@@ -1,0 +1,29 @@
+{
+  "name": "@chargeframework/test-package-c",
+  "version": "1.0.0",
+  "description": "Test Package C for the Charge Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChargeFramework/test-packages.git"
+  },
+  "author": "Dang Mai <contact@dangmai.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChargeFramework/test-packages/issues"
+  },
+  "homepage": "https://github.com/ChargeFramework/test-packages#readme",
+  "dependencies": {
+    "@chargeframework/test-package-a": "^2.0.0",
+    "@chargeframework/test-package-b": "^2.0.1"
+  },
+  "charge": {
+    "packages": [
+      "@chargeframework/test-package-a",
+      "@chargeframework/test-package-b"
+    ]
+  }
+}
