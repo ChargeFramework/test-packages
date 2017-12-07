@@ -1,6 +1,6 @@
 {
   "name": "@chargeframework/test-package-b",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "Test Package B for the Charge Framework",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChargeFramework/test-packages/issues"
   },
-  "homepage": "https://github.com/ChargeFramework/test-packages#readme"
+  "homepage": "https://github.com/ChargeFramework/test-packages#readme",
+  "charge": {
+    "packages": []
+  }
 }
