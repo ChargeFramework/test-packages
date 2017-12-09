@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ChargeFramework/test-packages#readme",
   "dependencies": {
     "@chargeframework/test-package-a": "^2.0.0",
-    "@chargeframework/test-package-b": "^2.0.1"
+    "@chargeframework/test-package-b": "^2.0.4"
   },
   "charge": {
     "packages": [
