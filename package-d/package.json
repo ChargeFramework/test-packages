@@ -1,0 +1,25 @@
+{
+  "name": "@chargeframework/test-package-d",
+  "version": "1.0.0",
+  "description": "Test Package D for the Charge Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChargeFramework/test-packages.git"
+  },
+  "author": "Dang Mai <contact@dangmai.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChargeFramework/test-packages/issues"
+  },
+  "homepage": "https://github.com/ChargeFramework/test-packages#readme",
+  "dependencies": {
+  },
+  "charge": {
+    "packages": [
+    ]
+  }
+}
