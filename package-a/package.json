@@ -1,6 +1,6 @@
 {
   "name": "@chargeframework/test-package-a",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Test Package A for the Charge Framework",
   "main": "index.js",
   "scripts": {
